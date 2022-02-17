@@ -1,0 +1,9 @@
+For: Es un bucle que nos sirven para resumir las líneas de código. Requiere una condición, la inicialización de un parámetro y el incremento del mismo.
+
+&&, ||, !: Son operadores lógicos. Sirven para realizar operaciones lógicas con valores booleanos. Para saber como funciona se basa en un atabla de verdad.
+ &&: AND 'Y'. Sólo en 'true' si todos los valores son 'true'.
+ ||: OR 'O'. Si uno de los valores es 'true' devuelve 'true'.
+ !: NEGACIÓN. Devuelvo el opuesto.
+
+
+
