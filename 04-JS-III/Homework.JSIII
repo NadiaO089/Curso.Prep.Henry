@@ -1,0 +1,4 @@
+Arrays: Son Arreglos que permiten guardar lista de valores. Estos pueden cualquier tipo de ellos: numeros, string, booleanos, otros arrays.
+        Se puede conocer su longitud con la propiedad length. Existen funciones predefinidas como son: Push(), que sirve para agregar
+valores al array al final de la lista, y Pop() que elimina el último valor del array y devuelve el valor eliminado.
+        Por último, se puede recorrer el array usando bucles for.
