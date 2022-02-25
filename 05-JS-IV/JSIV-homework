@@ -1,0 +1,5 @@
+Objetos: Los objetos son una colección de datos que tienen información relacionada entre ellas. Su notación es key:value.
+Propiedades: Las propiedades son los pares de key:value
+Métodos: Son aquellos valores que son funciones.
+Bucle for...in: Es un bucle para recorrer los objetos.
+Notación de puntos vs notación de corchetes: Ambas tienen el mismo objetivo. La de puntos es más simple.
