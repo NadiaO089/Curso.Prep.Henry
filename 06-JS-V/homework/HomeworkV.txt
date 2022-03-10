@@ -1,0 +1,3 @@
+Prototype: Todas los objetos en javascript tienen un prototype en dón están las funciones que posee. Y se pueden agregar métodos a los prototypes de los objetos que declaramos.
+
+Constructor de clases: es la función mediante la cual definimos las clases con sus propiedades y métodos.
